@@ -11,7 +11,7 @@ class Server:
     users = {'user':dict( \
         pw="password", dn="user", uid='user', \
         cn='Eagle', sn='Liut', displayName='Dustman', \
-        mail='dust@liut.cc' \
+        mail='dust@liut.cc', mobile='' \
         )}
 
     def __init__(self, url):

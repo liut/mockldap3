@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name = "mockldap3",
-    version = "0.0.1",
+    version = "0.0.2",
     url = 'http://github.com/liut/mockldap3',
     license = '',
     description = "Mock LDAP for ldap3",
